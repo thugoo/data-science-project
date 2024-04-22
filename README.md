@@ -1,3 +1,5 @@
+This repository is cloned, the original can be found here: https://github.com/malkmaria/IDS
+
 # IDS Project Repository
 **Topic - Lung Cancer Survival Prediction**  
 
